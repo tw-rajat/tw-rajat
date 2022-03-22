@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajat
 - 👀 I’m interested in Python & AI
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Anything Intresting.!
 - 📫 How to reach me rajatmyself@gmail.com
 
 <!---
